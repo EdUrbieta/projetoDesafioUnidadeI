@@ -2,6 +2,12 @@
 #Assim os CD´s que ficam na loja não são marcados por preços e sim por cores. 
 #Desenvolva um algoritmo que a partir da entrada da cor o software mostra o preço.
 #A loja está atualmente com a seguinte tabela de preços.
+# |  Cor  |  Preço  |
+# | Verde |  10,00  |
+# | Azul  |  20,00  |
+# | Amarelo | 30,00 |
+# | Vermelho | 40,00|
+
 cor = str(input("Cor do produto selecionado: "))
 if cor == "Verde":
     print("O valor do produto é 10.00 R$")
