@@ -1,5 +1,5 @@
 n1 = int(input("Digite o primeiro número:"))
-n2 = int(input("Digite o segunda número:"))
+n2 = int(input("Digite o segundo número:"))
 n3 = int(input("Digite o terceiro número:"))
 listaDeNumeros = [n1, n2, n3]
 listaDeNumeros.sort()
